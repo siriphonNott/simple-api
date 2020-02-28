@@ -5,7 +5,7 @@ const path = require('path');
 
 app.get('/', (req, res) => {
   res.send({
-    version: '1.0.2',
+    version: '1.0.3',
     status: 'ok'
   });
 });
