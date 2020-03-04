@@ -1,5 +1,6 @@
 {
   "name": "simple-api",
+  "description": "application api",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
@@ -10,5 +11,9 @@
   "dependencies": {
     "express": "^4.17.1",
     "log-to-file": "^2.0.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/siriphonNott/simple-api.git"
   }
 }
