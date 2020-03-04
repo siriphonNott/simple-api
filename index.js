@@ -6,7 +6,7 @@ const today   = new Date()
 
 app.get('/', (req, res) => {
   res.send({
-    version: '1.0.15',
+    version: '1.0.16',
     status: 'ok'
   });
 });
